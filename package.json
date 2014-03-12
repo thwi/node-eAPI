@@ -1,5 +1,5 @@
 {
-  "name": "eAPI",
+  "name": "eapi",
   "description": "Arista EOS API (eAPI) implementation",
   "version": "0.1.0",
   "keywords": [
@@ -23,10 +23,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/thwi/node-eapi"
+    "url": "https://github.com/thwi/node-eAPI"
   },
   "bugs": {
-    "url": "https://github.com/thwi/node-eapi/issues"
+    "url": "https://github.com/thwi/node-eAPI/issues"
   },
-  "homepage": "https://github.com/thwi/node-eapi"
+  "homepage": "https://github.com/thwi/node-eAPI"
 }
