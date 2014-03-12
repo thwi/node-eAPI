@@ -37,7 +37,7 @@ var switch1 = new eAPI({
 ```
 
 ### Basic commands
-#### switch.exec(cmds, callback)
+#### eAPI.exec(cmds, callback)
 
 ```
 switch1.exec([ 'show version' ], function(err, res) {
@@ -46,10 +46,10 @@ switch1.exec([ 'show version' ], function(err, res) {
 ```
 
 ### Editing configuration
-#### switch.exec([ 'enable', 'configure', ... ], callback)
+#### eAPI.exec([ 'enable', 'configure', ... ], callback)
 
 ```
-switch.exec([
+switch1.exec([
   'enable',
   'configure',
   'interface Et1',
