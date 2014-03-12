@@ -1,0 +1,32 @@
+{
+  "name": "eAPI",
+  "description": "Arista EOS API (eAPI) implementation",
+  "version": "0.1.0",
+  "keywords": [
+    "Arista",
+    "EOS",
+    "eAPI",
+    "Arista Networks",
+    "switch"
+  ],
+  "author": {
+    "name": "Thomas Williams",
+    "email": "twilliams@gmail.com"
+  },
+  "dependencies": {
+    "request": "2.x"
+  },
+  "readmeFilename": "README.md",
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.6.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thwi/node-eapi"
+  },
+  "bugs": {
+    "url": "https://github.com/thwi/node-eapi/issues"
+  },
+  "homepage": "https://github.com/thwi/node-eapi"
+}
